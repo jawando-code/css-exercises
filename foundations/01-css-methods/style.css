@@ -1,0 +1,16 @@
+/* style.css */
+h1{
+    background-color: aqua;
+}
+div{
+    background-color:red;
+    text-align: center;
+    font-weight:bold;
+    color:white;
+    font-size: 45px;
+}
+.rodo{
+    text-align: right;
+    background-color: grey;
+    font: size 100px;
+}
